@@ -1,0 +1,33 @@
+* Version Bumped to v5.5
+* Updated to r25
+* Jan Security Patch
+* Added MIUI like Volume Panel
+* Changed the dashboard icons for main Settings Dashboard
+* Added Status bar QS Header with lots of choices
+* Added Custom Ambient Display
+* Added option to enable AOD on charging only
+* Added OxygenOS styled dismiss all button with toggle
+* Added vibration to Long press QS settings for Colt-Enigma
+* Added User Selectable VoLTE Icon
+* Allow to disable Lockscreen Media Art
+* Configure lock screen media artwork blur level
+* Added keyguard battery bar in aod on charging
+* Added LockScreen visualizer feature
+* Added Lockscreen Clock/Date Widget Fonts Size etc
+* Added more system fonts
+* Switch to oxygenos drawables for navbar icons
+* Adjusted here and there backgrounds with system dark theme
+* Power menu icons color: use theme accent
+* Hide lock icon while dozing
+* Updated power menu icons
+* Added vibration tick when opening notification panel
+* Allow hiding the lock icon on lockscreen
+* Added RGB Accenter (Choose system accent as per user choice)
+* Added lockscreen clock/date styles
+* Suggestion cards: align them to searchbar (no more center alignment)
+* Added option to hide notch (for handsets having notch)
+* Rewamped Ambient light with some beautification in the overall options of Ambient light
+* Revamped QS tiles accents color styled
+* Added avatar to searchbar 
+* Visual improvements in Lockscreen shortcuts
+* and much more.........

@@ -1,0 +1,26 @@
+[
+	{
+        "name": "ZenFone Max Pro M1",
+        "brand": "Asus",
+        "codename": "X00T",
+        "maintainer_name": "Priyanshu",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9105890",
+        "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/10-0-colt-os-5-3-t4004943"
+    },
+	{
+        "name": "ZenFone Max Pro M2",
+        "brand": "Asus",
+        "codename": "X01BD",
+        "maintainer_name": "Sonal Singh",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8425394",
+        "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-colt-enigmav4-4-t3951353"
+    },
+	{
+        "name": "Redmi Note 5 Pro",
+        "brand": "Xiaomi",
+        "codename": "whyred",
+        "maintainer_name": "Ayush kakkar",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8508294",
+        "xda_thread": "https://forum.xda-developers.com/"
+    }
+]
