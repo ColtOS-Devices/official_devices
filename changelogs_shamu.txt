@@ -1,0 +1,23 @@
+Device: Nexus 6 (shamu)
+Device maintainer: Nitin1438
+
+¶ Version Bumped to 6.1
+¶ Merge tag 'android-10.0.0_r39
+¶ Updater Is Back
+¶ Port long screenshot implementation from Asus
+¶ Proper Android Auto Fix
+¶ Phonograph is the default music player.
+¶ Max Lockscreen Notification count
+¶ Added toggle for charging animation
+¶ Added more charging animations
+¶ Power Menu animations & customisations
+	• Power menu BG filter
+	• Blur behind poer menu
+	• Power menu transparency
+¶ HeadsUp: added timeout option & snooze function
+¶ SystemUI: Fix QS tiles clipping when too many icons in view
+¶ SystemUI: Introduce Adaptive Playback
+¶ ArrowKeys: Fix visibility only for 3 button navigation mode.
+¶ Fix SystemUI wallpaper crash
+¶ SystemUI: Always show LTE+/4G+ when applicable
+¶ And as always Colt is more smooth & beautiful now.
