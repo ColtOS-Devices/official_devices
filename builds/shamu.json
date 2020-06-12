@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.1-shamu-20200608-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Shamu/ColtOS-v6.1-shamu-20200608-Official.zip/download",
-        "timestamp": 1591623533,
-        "md5sum": "eb538a6aa1e7b3e1e196dca393dd8cf8",
-        "size": 568034696,
+        "filename": "ColtOS-v6.1-shamu-20200611-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Shamu/ColtOS-v6.1-shamu-20200611-Official.zip/download",
+        "timestamp": 1591862267,
+        "md5sum": "a3136e65cb1bfc72f8711aafea3df115",
+        "size": 590803964,
         "version": "v6.1",
         "romtype": "Official"
     }
