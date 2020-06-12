@@ -1,4 +1,38 @@
 Device: Redmi Note 8/8T (ginkgo)
 Device maintainer: Mrinal Ghosh (mg712702)
 
-- Initial Test
+::::::::::::Source Changelog.::::::::::::::
+¶ Version Bumped to 6.1
+¶ Merge tag 'android-10.0.0_r39
+¶ Updater Is Back
+¶ Port long screenshot implementation from Asus
+¶ Proper Android Auto Fix
+¶ Phonograph is the default music player
+¶ Max Lockscreen Notification count
+¶ Added toggle for charging animation
+¶ Added more charging animations
+¶ Power Menu animations & customisations
+     • Power menu BG filter
+     • Blur behind poer menu
+     • Power menu transparency
+¶ HeadsUp: added timeout option & snooze function
+¶ SystemUI: Fix QS tiles clipping when too many icons in view
+¶ SystemUI: Introduce Adaptive Playback
+¶ ArrowKeys: Fix visibility only for 3 button navigation mode
+¶ Fix SystemUI wallpaper crash
+¶ SystemUI: Always show LTE+/4G+ when applicable
+¶ And as always Colt is more smooth & beautiful now
+
+::::::::::::Device Changelog.::::::::::::::
+¶ Fixed Macro & Wide lens
+¶ Fixed Gcam raw10 buffer
+¶ Updated ANX to v184 with lots of new features
+¶ Updated ofilm chromatix libs from Lenovoved
+¶ Enabled 4k3fps video recording support
+¶ Updated kernel to ALS v184
+¶ Improved Light hal
+¶ Improved Auto brightness
+¶ Added Mi soundFX
+¶ Improved Audio quality
+¶ Updated Thermal config for hotplugging and smoother throttling
+¶ A lot more device specific fixes
