@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+        "filename": "ColtOS-v6.1-platina-20200617-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.1-platina-20200617-Official.zip/download",
+        "timestamp": 1592366026,
+        "md5sum": "fe8b19e0d7020de244d9411e225bda6b",
+        "size": 953661760,
+        "version": "v6.1",
+        "romtype": "Official"
+    }
+  ]
+}
