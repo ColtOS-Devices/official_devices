@@ -1,0 +1,34 @@
+Device: Mi 8 Lite (platina)
+Device maintainer: Curse
+
+::::::::::::Source Changelog.::::::::::::::
+¶ Version Bumped to 6.1
+¶ Merge tag 'android-10.0.0_r39
+¶ Updater Is Back
+¶ Port long screenshot implementation from Asus
+¶ Proper Android Auto Fix
+¶ Phonograph is the default music player
+¶ Max Lockscreen Notification count
+¶ Added toggle for charging animation
+¶ Added more charging animations
+¶ Power Menu animations & customisations
+     • Power menu BG filter
+     • Blur behind poer menu
+     • Power menu transparency
+¶ HeadsUp: added timeout option & snooze function
+¶ SystemUI: Fix QS tiles clipping when too many icons in view
+¶ SystemUI: Introduce Adaptive Playback
+¶ ArrowKeys: Fix visibility only for 3 button navigation mode
+¶ Fix SystemUI wallpaper crash
+¶ SystemUI: Always show LTE+/4G+ when applicable
+¶ And as always Colt is more smooth & beautiful now
+
+::::::::::::Device Changelog.::::::::::::::
+¶ Fix fast blinking notification light
+¶ Fix issue nav bar cant open recent apps
+¶ Enable zygote preforking
+¶ Update DATA IPA Hal to LA.UM.8.2.r1-06700-sdm660.0
+¶ Use Qcrild from LA.UM.8.2.r1-06500-sdm660.0
+¶ Set cortex-a73 for 2nd CPU
+¶ Improved Audio quality
+¶ Improve stability and performance
