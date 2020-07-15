@@ -2,33 +2,42 @@ Device: Mi 8 Lite (platina)
 Device maintainer: Curse
 
 ::::::::::::Source Changelog.::::::::::::::
-¶ Version Bumped to 6.1
-¶ Merge tag 'android-10.0.0_r39
-¶ Updater Is Back
-¶ Port long screenshot implementation from Asus
-¶ Proper Android Auto Fix
-¶ Phonograph is the default music player
-¶ Max Lockscreen Notification count
-¶ Added toggle for charging animation
-¶ Added more charging animations
-¶ Power Menu animations & customisations
-     • Power menu BG filter
-     • Blur behind poer menu
-     • Power menu transparency
-¶ HeadsUp: added timeout option & snooze function
-¶ SystemUI: Fix QS tiles clipping when too many icons in view
-¶ SystemUI: Introduce Adaptive Playback
-¶ ArrowKeys: Fix visibility only for 3 button navigation mode
-¶ Fix SystemUI wallpaper crash
-¶ SystemUI: Always show LTE+/4G+ when applicable
-¶ And as always Colt is more smooth & beautiful now
+* Version Bumped to v6.2 :) 
+* July security patch .
+* SIMs on/off toggle .
+* Randomize ColtEnigma's summary .
+* Phone ringtone setting for Multi SIM device .
+* QS header data usage: add ability to show daily/monthly data usage
+* Added Disco dingo style for QS
+* Toggleable QsBorderYStyle 
+* Moved battery icon to QS header 
+* Added QSDetailItems 
+* Added transparent theme and mizu theme .
+* Added some lockscreen clocks(Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,Oro�o ,center style Typographic )
+* fixed battery/percent padding
+* Added ability to Animate Settings button in QS panel and Running Services icon .
+* Added switch to show UserIcon & Settings in QS Footer .
+* Fixup analog clock for AOD support .
+* Moved battery bar settings out of tuner .
+* Added Flashlight blink on incoming calls .
+* Added EMUI VoLTE icon .
+* Better QS detail clip animation .
+* Added rounded hexagon icon overlay .
+* Added new icon shapes from Android R (PebbleOverlay, TaperedRect, Vessel ) 
+* Added QS-Clock Font style & size options .
+* Fixed Qs Header weird corner blank space .
+* Fixed lockscreen shortcuts .
+
+
+* Find All Changes Here:
+ https://github.com/Colt-Enigma/
+
+Stay Home & Enjoy Flashing !!!
 
 ::::::::::::Device Changelog.::::::::::::::
-¶ Fix fast blinking notification light
-¶ Fix issue nav bar cant open recent apps
-¶ Enable zygote preforking
-¶ Update DATA IPA Hal to LA.UM.8.2.r1-06700-sdm660.0
-¶ Use Qcrild from LA.UM.8.2.r1-06500-sdm660.0
-¶ Set cortex-a73 for 2nd CPU
-¶ Improved Audio quality
-¶ Improve stability and performance
+* Change kernel to Curse-Eas_Lv.2 4.4.230
+* Fix nighlight issue
+* Improved Audio quality
+* Improve stability and performance
+* Update coral july fp
+* Some fixes and misc
