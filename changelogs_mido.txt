@@ -1,10 +1,8 @@
-Device: Nexus 6 (shamu)
-Device maintainer: Nitin1438
-
 ::::::::::::Source Changelog.::::::::::::::
-
 * Version Bumped to v6.2 :) 
-* July security patch
+* Merged tag android-10.0.0_r40
+* July 2020 security patch
+* SIMs on/off toggle
 * Randomize ColtEnigma's summary
 * Phone ringtone setting for Multi SIM device
 * QS header data usage: add ability to show daily/monthly data usage
@@ -12,22 +10,27 @@ Device maintainer: Nitin1438
 * Toggleable QsBorderYStyle 
 * Moved battery icon to QS header 
 * Added QSDetailItems 
-* Added Colt transparent and Mizu theme
-* Added some lockscreen clocks (Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,Oroño ,center style Typographic)
+* Added transparent theme and mizu theme .
+* Added some lockscreen clocks(Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,Oroño ,center style Typographic )
 * fixed battery/percent padding
 * Added ability to Animate Settings button in QS panel and Running Services icon
 * Added switch to show UserIcon & Settings in QS Footer
 * Fixup analog clock for AOD support
 * Moved battery bar settings out of tuner
 * Added Flashlight blink on incoming calls
-* Added EMUI VoLTE icon
-* Better QS detail clip animation
+* Added EMUI VoLTE icon 
+* Better QS detail clip animation 
 * Added rounded hexagon icon overlay
-* Added new icon shapes from Android R (PebbleOverlay, TaperedRect, Vessel )
-* Added QS-Clock Font style & size options
+* Added new icon shapes from Android R (PebbleOverlay, TaperedRect, Vessel ) 
+* Added QS-Clock Font style & size options 
 * Fixed Qs Header weird corner blank space
 * Fixed lockscreen shortcuts
 
 ::::::::::::Device Changelog.::::::::::::::
-
-* Kernel synced up with Lineage source
+* Switched To 4.9 Kernel
+* Added XiaomiParts Same as Older Builds
+* Added Thermal From Olive
+* Updated OpenGL And Vulkan Blobs
+* Latest Changes Merged From Zeelog Trees
+* Update blobs from LA.UM.8.6.r1-04400-89xx.0
+* Added Dolby Sound

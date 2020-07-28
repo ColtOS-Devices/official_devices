@@ -1,7 +1,8 @@
-Device: Mi 8 Lite (platina)
-Device maintainer: Curse
+Device: Redmi 7 (onclite)
+Device maintainer: Gagan Malvi (TheAcanthite)
 
-::::::::::::Source Changelog.::::::::::::::
+:::::::::::Source Changelog::::::::::::::
+
 * Version Bumped to v6.2 :) 
 * July security patch .
 * SIMs on/off toggle .
@@ -13,11 +14,11 @@ Device maintainer: Curse
 * Moved battery icon to QS header 
 * Added QSDetailItems 
 * Added transparent theme and mizu theme .
-* Added some lockscreen clocks(Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,Oroño ,center style Typographic )
+* Added some lockscreen clocks(Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,OroÃ±o ,center style Typographic )
 * fixed battery/percent padding
 * Added ability to Animate Settings button in QS panel and Running Services icon .
 * Added switch to show UserIcon & Settings in QS Footer .
-* Fixup analog clock for AOD support .
+*Fixup analog clock for AOD support .
 * Moved battery bar settings out of tuner .
 * Added Flashlight blink on incoming calls .
 * Added EMUI VoLTE icon .
@@ -29,15 +30,10 @@ Device maintainer: Curse
 * Fixed lockscreen shortcuts .
 
 
-* Find All Changes Here:
- https://github.com/Colt-Enigma/
-
-Stay Home & Enjoy Flashing !!!
-
-::::::::::::Device Changelog.::::::::::::::
-* Change kernel to Curse-Eas_Lv.2 4.4.230
-* Fix nighlight issue
-* Improved Audio quality
-* Improve stability and performance
-* Update coral july fp
-* Some fixes and misc
+:::::::::::Device Changelog:::::::::::
+* Updated to July Patch
+* Enable 4K on both cameras
+* Add Moto Dolby Support
+* Set dalvik-heap configs based on RAM variant
+* Many changes under the hood
+* New, rebased kernel :D

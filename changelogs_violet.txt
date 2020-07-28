@@ -1,8 +1,3 @@
-Device: Redmi Note 8/8T (ginkgo)
-Device maintainer: Mrinal Ghosh (mg712702)
-
-
-
 ::::::::::::Source Changelog.::::::::::::::
 * Version Bumped to v6.2 :) 
 * Merged tag android-10.0.0_r40
@@ -32,16 +27,13 @@ Device maintainer: Mrinal Ghosh (mg712702)
 * Fixed lockscreen shortcuts
 
 ::::::::::::Device Changelog.::::::::::::::
-* Updated Kernel to 4.14.188
-* Updated All blobs from latest A10 beta
-* Switched to QTI BT stack
-* Enabled bluetooth A2DP offload
-* Fixed FM Radio
-* Updated GPS hal from LA.UM.8.11.r1-03800-NICOBAR.0
-* Switched to MiuiCamera ported by "Adithya R"
-* Fixed blank screen issue (not tested)
-* Fixed wifi random shutdowns
-* Updated rootdir from stock
-* Synced props from stock
-* Set RGB to 90% for Tianma panel
-* Lot more device specific fixes & cleanup
+* Updated FP to flame July patch
+* Introduce Violet Parts (SeLINUX Switcher, USB Fast Charging, Mi Dirac, Log tile)
+* Beautify rounded corners
+* Slightly Improved boot-up time
+* Switched back to gralloc 2.0.
+* Updated graphics blobs. (thanks @tesla59)
+* Switched to common sm8150 hals.
+* Enabled VoLTE for bd
+* Addressed some denials
+* Updated azure kernel (thanks @panchajanya1999)
