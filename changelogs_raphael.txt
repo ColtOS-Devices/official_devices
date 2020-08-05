@@ -1,0 +1,63 @@
+Device: Redmi K20 Pro (raphael)
+Device maintainer: HSgod
+
+::::::::::::Device Changelog.::::::::::::::
+* Updated overall blobs to MIUI 12
+* Updated lot of blobs to LA.UM.8.1.r1-15100-sm8150.0
+* Updated GPS Hal to LA.UM.8.9.r1-09300-SM6xx.0
+* Updated GPS blobs to LA.UM.8.9.r1-07100-SM6xx.0
+* Updated media and audio hardware to LA.UM.8.1.r1-15600-sm8150.0
+* Disabled F2FS background_gc
+* Disabled proximity sensor check before pulsing
+* Enabled Burn-in protection for FOD and statusbar
+* Enabled Bluetooth WBS
+* Added support for ANXCamera on MIUI 12 Blobs
+* Added Battery health in battery options 
+* Added TWS+ finally
+* Nuked flickering on DC dimming and without
+* Nuked ANXCamera and added CameraGO
+* Ported brightness overlays from MIUI
+* Imported some BT libs
+* Improved boot time
+* SQLite optimizations
+* FOD improvements (hidden in some cases/added FOD dim) 
+* Cleaned up RCS packages
+* Set dalvik heap conifguration (for 6/8/12GB RAM devices)
+* Switched to QCOM BT Stack
+* Switched to stock vibration pattern
+* Switched to ProtonClang 12.0
+* Fixed Google recorder/OK Google
+* Fixed GPS random crashes
+* Fixed Vulkan crashes/lags
+* Fixed DC Dimming FINALLY on OSS roms
+* Immensity kernel upstream
+
+::::::::::::Source Changelog.::::::::::::::
+* Bump version to v6.3
+* Merged August Security Patch (r41)
+* Added new cool animations for Settings submenu
+* Added QP Gallery
+* Added support for per app network isolation
+* Added screenshot sound - to - ringer modes adaption
+* Added A2DP codec priority selection
+* Added switch to select SBC HD by default
+* Added Wired/BT headset ringtone audio focus customisation
+* Added VoWiFi icon toggle
+* Added music heads up on new tracks
+* Added button for freeform window
+* Added toggle for iOS like clipboard toast notifications
+* Added few OnePlus lockscreen clock styles
+* Added ColtOS lockscreen clock
+* Added new fonts
+* Added randomize colors to dashboard icons
+* Added randomize colors to Battery meter view
+* Fixed call-recording
+* Fixed power menu icon colors
+* Fixed Battery stats resetting after reboot
+* Improved volume panel
+* Improved AOD Tile
+* Updated all AOSP apps
+* Re-aligned About Us and ColtCenter with new animation
+* Disabled few logging
+* Enable zygote preforking (USAP pool) by default
+* Further improvements and fixes...
