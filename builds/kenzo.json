@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.2-kenzo-20200713-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Kenzo/ColtOS-v6.2-kenzo-20200713-Official.zip/download",
-        "timestamp": 1594671471,
-        "md5sum": "f01ad56651fc6c6f640f84b39ad81ff0",
-        "size": 756057257,
-        "version": "v6.2",
+        "filename": "ColtOS-v6.3-kenzo-20200804-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Kenzo/ColtOS-v6.3-kenzo-20200804-Official.zip/download",
+        "timestamp": 1596604624,
+        "md5sum": "c1d327f8f4a0d3cc8f9fb6f7fb996922",
+        "size": 698861941,
+        "version": "10.0",
         "romtype": "Official"
     }
   ]
