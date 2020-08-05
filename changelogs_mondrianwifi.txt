@@ -1,0 +1,51 @@
+Device: Samsung Galaxy Tab Pro 8.4 (mondrianwifi)
+Device maintainer: Gigabyte
+
+------------Source Changelog.--------------
+
+ColtOS Enigma - 05-Aug-2020 Update:
+* Bump version to v6.3
+* Merged August Security Patch (r41)
+* Added new cool animations for Settings submenu
+* Added QP Gallery 
+* Added support for per app network isolation
+* Added screenshot sound - to - ringer modes adaption
+* Added A2DP codec priority selection
+* Added switch to select SBC HD by default
+* Added Wired/BT headset ringtone audio focus customisation
+* Added VoWiFi icon toggle
+* Added music heads up on new tracks
+* Added button for freeform window
+* Added toggle for iOS like clipboard toast notifications
+* Added few OnePlus lockscreen clock styles
+* Added ColtOS lockscreen clock
+* Added new fonts
+* Added randomize colors to dashboard icons
+* Added randomize colors to Battery meter view
+* Fixed call-recording
+* Fixed power menu icon colors
+* Fixed Battery stats resetting after reboot
+* Improved volume panel
+* Improved AOD Tile
+* Updated all AOSP apps
+* Re-aligned About Us and ColtCenter with new animation
+* Disabled few logging
+* Enable zygote preforking (USAP pool) by default
+* Further improvements and fixes...
+- You can view complete changes on our git
+- Stay Home & Enjoy Flashing!
+
+------------Device Changelog.--------------
+*System:  
+-Automatic AOD brightness.
+-Further reduce debug data.
+-Increase Internal Speaker audio volume.
+-Set zram compression to LZO.
+-Reduce zram size to 25%.
+-Set extra_free_kbytes to tell the VM to keep an extra amount of memory free.
+-Adjust lmk parameters.
+-Performance tweaks.
+*Miscellaneous Changes:
+-Update symlinks - thanks @notGarrison,@Valera1978
+Note:
+-Clean Flash is highly recommended.
