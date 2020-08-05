@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.2-platina-20200715-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.2-platina-20200715-Official.zip/download",
-        "timestamp": 1594787957,
-        "md5sum": "4e111d7f6918ee44496737bf3aa8b0bc",
-        "size": 955751321,
-        "version": "v6.2",
+        "filename": "ColtOS-v6.3-platina-20200805-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.3-platina-20200805-Official.zip/download",
+        "timestamp": 1596600415,
+        "md5sum": "04e19b3d90bd5e832cebd7c32c031b7a",
+        "size": 899815367,
+        "version": "v6.3",
         "romtype": "Official"
     }
   ]
