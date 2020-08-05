@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.2-ginkgo-20200715-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.2-ginkgo-20200715-Official.zip/download",
-        "timestamp": 1594775187,
-        "md5sum": "44224296bfb60c21a4b5f857c29f7944",
-        "size": 992360622,
-        "version": "v6.2",
+        "filename": "ColtOS-v6.3-ginkgo-20200805-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.3-ginkgo-20200805-Official.zip/download",
+        "timestamp": 1596597181,
+        "md5sum": "05c6ecf35c7680a82f9a9087b7936c77",
+        "size": 925619263,
+        "version": "10.0",
         "romtype": "Official"
     }
   ]
