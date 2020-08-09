@@ -2,17 +2,10 @@ Device: Redmi Note 8/8T (ginkgo)
 Device maintainer: Mrinal Ghosh (mg712702)
 
 ::::::::::::Device Changelog.::::::::::::::
-* Updated Kernel to 4.14.191
-* Updated All blobs from 20.7.30 beta
-* Fixed offline charging
-* Enableed boot and system server dex-preopt
-* Updated graphics stack from LA.UM.8.11.r1-03800
-* Updated init scripts from LA.UM.8.11.r1-03800-NICOBAR.0
-* Updated media configs from LA.UM.8.11.r1-03800-NICOBAR.0
-* Sets LCD density to 440
-* Increased ZRAM to 2GB
-* Added support for willow units with hwversion 19.39.0 (Must be on latest unofficial TWRP recovery)
-* Performance tweaks & much improvements
+* Updated Kernel to 4.14.193
+* Fixed GCam DSP-accelerated HDR processing
+* Fixed black screen/no bootanimation issue for some users
+* Added MultiUser settings
 
 ::::::::::::Source Changelog.::::::::::::::
 * Bump version to v6.3
