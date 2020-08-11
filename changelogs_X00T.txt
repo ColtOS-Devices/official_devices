@@ -34,7 +34,6 @@ Device maintainer: Saurabh Charde (@SaurabhCharde)
 
 ::::::::::::Device Changelog.::::::::::::::
 
-* Fixed speaker crackling
-* Fixed low speaker output
-* Switched to ARAGOTO stable kernel
-* Kernel upstreamed to 4.4.232
+* Enabled QTI Bluetooth Stack
+* Fixed random reboot
+* Temporily switched to Equinox-X
