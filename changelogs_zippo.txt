@@ -2,12 +2,10 @@ Device: Lenovo Z6 Pro (Zippo)
 Device maintainer: Einar Gednochsson
 
 ::::::::::::Device Changelog.::::::::::::::
-* Overall smoothness improvements
-* Updated schedtune config
-* Switch back to 100Hz timer frequency
-* Switched to PELT scheduling
-* Updated kernel to 4.14.191 LA.UM.8.1.r1-15400-sm8150.0
-* THX @pasta_con_tonno for his amazing work on kernel
+* BatteryHealth added
+* Upstream kernel to 4.14.193
+* LA.UM.8.1.r1-15600-sm8150.0 merged
+* Some more Kernel improvements
 
 ::::::::::::Source Changelog.::::::::::::::
 * Bump version to v6.3
