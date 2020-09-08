@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: ubuntu:latest
+    steps:
+      - run: apt-get update
+      - run: apt-get -y install git curl
+      - checkout
+      - run: ls
+      - run: bash tg_notify.sh
