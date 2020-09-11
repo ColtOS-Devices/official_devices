@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.3-zippo-20200814-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Zippo/ColtOS-v6.3-zippo-20200814-Official.zip/download",
-        "timestamp": 1597423896,
-        "md5sum": "39acbf67b7bf5739afe7c4a65c485dcf",
-        "size": 751187536,
+        "filename": "ColtOS-v6.4Smokey-zippo-20200911-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Zippo/ColtOS-v6.4Smokey-zippo-20200911-Official.zip/download",
+        "timestamp":1599823756, 
+        "md5sum": "525cf8b76ed65861ba12d82fee939e3e",
+        "size": 733961162,
         "version": "10.0",
         "romtype": "Official"
     }
