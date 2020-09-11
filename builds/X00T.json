@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.3-X00T-20200811-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/X00TD/ColtOS-v6.3-X00T-20200811-Official.zip/download",
-        "timestamp": 1597142380,
-        "md5sum": "793ceddca9ae3b34d4b299d5dfd4389a",
-        "size": 753810785,
+        "filename": "ColtOS-v6.4Smokey-X00T-20200911-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/X00TD/ColtOS-v6.4Smokey-X00T-20200911-Official.zip/download",
+        "timestamp": 1599845660,
+        "md5sum": "5fc75618f16c70a47867c5d25d8086ec",
+        "size": 737690639,
         "version": "10.0",
         "romtype": "Official"
     }
