@@ -1,0 +1,30 @@
+Device: Asus Zenfone Max Pro M2 (X01BD)
+Device maintainer: Sonal Singh (@SonalSingh18)
+
+::::::::::::Source Changelog.::::::::::::::
+* Bump version to v6.4
+* Merged August Security Patch (r46)
+* Redesigned Themes section with live previews
+* Redesigned ColtCenter bottom layout
+* Redesigned some drawables in Settings
+* Added our own EnigmaLauncher
+* Added more charging animations
+* Added random colors to edge lighting
+* Added OxygenOS-like dismiss all button
+* Added optional MIUI-like bringhtness slider
+* Added POSP volume styles
+* Added toggle to switch volume-panel location
+* Added option to center "R style" notification headers
+* Added SystemUI screenrecorder
+* Added option to allow limiting edge lighting repeats
+* Added ambient edge pulse layout customisation
+* Added Wi-Fi usage to QS Header Data Usage
+* Added option to make IME button space optional
+* Added avatar to SearchBar
+* Added settings to allow changing navbar handle thickness
+* Improved QS Header Data Usage layout
+* Further improvements and fixes...
+
+::::::::::::Device Changelog.::::::::::::::
+
+* Upstreamed kernel to 4.4.235
