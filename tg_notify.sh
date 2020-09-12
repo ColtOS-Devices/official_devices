@@ -16,7 +16,7 @@ fetchInfo() {
     # get the basic requirement for any ota i.e, timestamp
     UNIX_DATE=$(echo "${OTA_PATCH}" | grep '^+' | grep "\"timestamp\"" | \
         awk -F"[:,]" '{print $2}' | sed 's/[[:space:]]//')
-    
+
     # exit if $UNIX_DATE is empty (likely not an ota commit)
     [[ -z ${UNIX_DATE} ]] && OTA_COMMIT=false && return 1
 
@@ -40,8 +40,8 @@ fetchInfo() {
 
 getChangelog() {
     CHANGELOG_FILE=$(curl -s https://raw.githubusercontent.com/ColtOS-Devices/official_devices/c10/changelogs_${DEVICE_CODE}.txt)
-    echo "$CHANGELOG_FILE" | grep -i -A15 "device.*.change" | \
-        sed '/.*device.*change.*/Id' | sed 's/^*/- /g' | sed '/^$/d'
+    echo "$CHANGELOG_FILE" | sed -n '/device.*change.*/I,/source.*change.*/I{/device.*change.*/Ib;/source.*change.*/Ib;p}' \
+        sed 's/^*/- /g' | sed '/^$/d'
 }
 
 # get latest commit hash (from branch: c10)
@@ -62,7 +62,7 @@ TG_POST=$(cat <<EOF
 
 <b>• ROM Changelog</b>: <a href='${ROM_CHANGELOG}'>Link</a>
 
-<b>• Device Changelog</b>: 
+<b>• Device Changelog</b>:
 <i>$(getChangelog)</i>
 
 <b>• Download</b>: <a href='${SFLINK}'>SourceForge</a> [${SIZE}]
@@ -73,10 +73,11 @@ TG_POST=$(cat <<EOF
 EOF
 )
 else
-TG_POST="This <a href='${OTA_REPO}/commit/${RECENT_COMMIT}'>commit</a> is not an OTA"
+TG_POST="Timestamp could not be found or \
+    <a href='${OTA_REPO}/commit/${RECENT_COMMIT}'>commit</a> is not an OTA!"
 fi
 
-# Make a nice post and send it to TG channel 
+# Make a nice post and send it to TG channel
 # (shameless plug: check t.me/ColtOSOfficial to see this in action)
 curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
     -d chat_id="${CHAT_ID}" \
