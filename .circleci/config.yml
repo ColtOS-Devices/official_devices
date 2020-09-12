@@ -9,3 +9,13 @@ jobs:
       - checkout
       - run: ls
       - run: bash tg_notify.sh
+
+workflows:
+  version: 2
+  build_c10:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - c10

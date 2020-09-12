@@ -74,7 +74,7 @@ EOF
 )
 else
 TG_POST="Timestamp could not be found or \
-    <a href='${OTA_REPO}/commit/${RECENT_COMMIT}'>commit</a> is not an OTA!"
+<a href='${OTA_REPO}/commit/${RECENT_COMMIT}'>commit</a> is not an OTA!"
 fi
 
 # Make a nice post and send it to TG channel
