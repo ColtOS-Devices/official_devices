@@ -1,0 +1,5 @@
+::::::::::::ColtOS 6.4 Device Changelog.::::::::::::::
+
+* Device sources complete rebase.
+* Kernel upstream to 4.4.235.
+* For more check changelogs in About section.
