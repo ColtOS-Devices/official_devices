@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.4Smokey-ginkgo-20200912-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.4Smokey-ginkgo-20200912-Official.zip/download",
-        "timestamp": 1599893933,
-        "md5sum": "83dd0613ee2f7398d87e67578f584200",
-        "size": 915495277,
+        "filename": "ColtOS-v6.4Smokey-ginkgo-20200917-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.4Smokey-ginkgo-20200917-Official.zip/download",
+        "timestamp": 1600340837,
+        "md5sum": "62c49785875fae97acf711ffd611ec5b",
+        "size": 915508273,
         "version": "10.0",
         "romtype": "Official"
     }
