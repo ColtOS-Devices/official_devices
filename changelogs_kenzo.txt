@@ -2,41 +2,27 @@ Device: Xiaomi Redmi Note 3 Pro (Kenzo/Kate)
 Device maintainer: gigabyte_1000
 
 ::::::::::::Device Changelog.::::::::::::::
-** READ: Due to DT re-work, please clean flash. ** 
-     ** Clean flash is likely required!!!. **
-* Fixed a random reboot issue.
-* Updated keystore blob from F5122 34.4.A.2.118 CIS RU-UA-KZ-BY (fixes lockscreen bug)
-* Decommonized and reworked DT.
-* Mi Sound Enhancer moved to Sound settings.
-* Replaced 'chargeonlymode' binarie with charger service
-* Added joystick support config
-* Fixed Hi-Res audio 24bit/192kHz
-* Added new performance blobs
-* Added performance configs
-(Add Resume, WebView, Drag, PackageInstall boost,
-added timeout to vertical and horizontal scroll,
-reduced timeout for app launch boost (disabling packing) to 1.5 sec)
+* Downgrade prima to LA.BR.1.3.6_rb1.19 (new driver had 5Ghz issues)
+* Fixed some coding mistakes (duplicates, unused code, wrong code)
+* Disabled ALMK
+* Enabled ported zram driver from 4.18.xxx (it was in kernel but disabled, 😂)
+* Corrected lmk profiles (fixes apps being killed to early on 2gb device variant)
+* Increased zram (fixes apps crashing for 2gb device variant)
+* Added config to use a new Deep Sleep level for wifi (should improve battery savings)
+* Enabled 400mhz core frequencies (it is already set in kernel, but was disabled in DT config 🤷🏼)
 
 ::::::::::::Source Changelog.::::::::::::::
-* Bump version to v6.4
-* Merged September Security Patch (r46)
-* Redesigned Themes section with live previews
-* Redesigned ColtCenter bottom layout
-* Redesigned some drawables in Settings
-* Added our own EnigmaLauncher
-* Added more charging animations
-* Added random colors to edge lighting
-* Added OxygenOS-like dismiss all button
-* Added optional MIUI-like brightness slider
-* Added POSP volume styles
-* Added toggle to switch volume-panel location
-* Added option to center "R style" notification headers
-* Added SystemUI screenrecorder
-* Added option to allow limiting edge lighting repeats
-* Added ambient edge pulse layout customization
-* Added Wi-Fi usage to QS Header Data Usage
-* Added option to make IME button space optional
-* Added avatar to SearchBar
-* Added settings to allow changing navbar handle thickness
-* Improved QS Header Data Usage layout
-* Further improvements and fixes...  
+* Bump version to v6.5
+* Updated security patch to 5th Oct, 2020
+* Introducing AppLock (by AOSPA)
+* Added option to cycle through ringer modes
+* Added support for Home Button wake
+* Added option to customize lockscreen timeout
+* Reworked on Network traffic indicators
+* Fixed keyguard icons padding
+* Fixed notification overlap with PIN screen
+* Optimized mobile and wifi group layout
+* Much more fixes & improvements
+- You can view complete changes on our git.
+- This is the final Q release.
+- Stay Home & Enjoy Flashing!
