@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.4Smokey-platina-20200912-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.4Smokey-platina-20200912-Official.zip/download",
-        "timestamp": 1599873817,
-        "md5sum": "520913fd7f59763f160daa5cbdce3eac",
-        "size": 867581243,
+        "filename": "ColtOS-v6.5Euphoria-platina-20201015-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.5Euphoria-platina-20201015-Official.zip/download",
+        "timestamp": 1602730727,
+        "md5sum": "3ac7828d4dfcbd780bc99937b07df320",
+        "size": 863727331,
         "version": "10.0",
         "romtype": "Official"
     }
