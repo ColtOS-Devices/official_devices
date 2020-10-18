@@ -2,37 +2,19 @@ Device: OnePlus 6T (fajita)
 Device maintainer: Ziauddin_Sameer
 
 ::::::::::::Source Changelog.::::::::::::::
-* Bump version to v6.4
-* Merged September Security Patch (r46)
-* Redesigned Themes section with live previews
-* Redesigned ColtCenter bottom layout
-* Redesigned some drawables in Settings
-* Added our own EnigmaLauncher
-* Added more charging animations
-* Added random colors to edge lighting
-* Added OxygenOS-like dismiss all button
-* Added optional MIUI-like brightness slider
-* Added POSP volume styles
-* Added toggle to switch volume-panel location
-* Added option to center "R style" notification headers
-* Added SystemUI screenrecorder
-* Added option to allow limiting edge lighting repeats
-* Added ambient edge pulse layout customization
-* Added Wi-Fi usage to QS Header Data Usage
-* Added option to make IME button space optional
-* Added avatar to SearchBar
-* Added settings to allow changing navbar handle thickness
-* Improved QS Header Data Usage layout
-* Further improvements and fixes...  
+* Bump version to v6.5 Euphoria
+* Updated security patch to 5th Oct, 2020
+* Introducing AppLock (by AOSPA)
+* Added option to cycle through ringer modes
+* Added support for Home Button wake
+* Added option to customize lockscreen timeout
+* Reworked on Network traffic indicators
+* Fixed keyguard icons padding
+* Fixed notification overlap with PIN screen
+* Optimized mobile and wifi group layout
+* Much more fixes & improvements
 
 ::::::::::::Device Changelog.::::::::::::::
-* Introducing New LuffyKernel
-* Kernel Upstreamed to 4.9.235
-* Changes in OnePlus Settings layout
-* Clear Speaker feature port 
-* Fix FPS tile issue
-* Faster fp recognition
-* Added prebult twrp 
-* Performance and Stability improvement 
+* Kernel Upstreamed to 4.9.238 
 
 
