@@ -16,7 +16,8 @@ Device maintainer: Curse
 
 ::::::::::::Device Changelog.::::::::::::::
 
-* Upstream JandaX to Lv.3 4.4.238
+* Fixing dt2w
+* Upstream JandaX to Lv.3 4.4.240
 * Update to Coral's October 2020 fingerprint
 * Idle Improvements for better battery saving
 * Improvement stability and performance
