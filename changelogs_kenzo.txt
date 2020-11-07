@@ -2,14 +2,15 @@ Device: Xiaomi Redmi Note 3 Pro (Kenzo/Kate)
 Device maintainer: gigabyte_1000
 
 ::::::::::::Device Changelog.::::::::::::::
-* Downgrade prima to LA.BR.1.3.6_rb1.19 (new driver had 5Ghz issues)
-* Fixed some coding mistakes (duplicates, unused code, wrong code)
-* Disabled ALMK
-* Enabled ported zram driver from 4.18.xxx (it was in kernel but disabled, 😂)
-* Corrected lmk profiles (fixes apps being killed to early on 2gb device variant)
-* Increased zram (fixes apps crashing for 2gb device variant)
-* Added config to use a new Deep Sleep level for wifi (should improve battery savings)
-* Enabled 400mhz core frequencies (it is already set in kernel, but was disabled in DT config 🤷🏼)
+* Updated blobs - CNE, DPM, GNSS (Location), Time Service, Peripheral Manager, Power-OFF Alarm, Thermal, Bluetooth and QMI 
+from xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.11.0.QDLMIXM:user/release-keys
+* Fixed a lot of logging spam.
+* Enabled in kernel LMK 
+* Implemented HotwordEnrollment (Google Assistant is working, to use Voice Recognition the Google app needs to be a system app)
+* Fixed Power-OFF timer feature.
+* Updated configs from CAF: Carrier, GPS, TIME
+* Removed some deprecated stuff to make device tree cleaner
+* Some other changes to fix errors or improve device performance
 
 ::::::::::::Source Changelog.::::::::::::::
 * Bump version to v6.5
