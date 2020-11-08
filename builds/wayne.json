@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.5Euphoria-wayne-20201014-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Wayne/ColtOS-v6.5Euphoria-wayne-20201014-Official.zip/download",
-        "timestamp": 1602725910,
-        "md5sum": "e9b5842453df87a37216a77b70aa26a8",
-        "size": 881437315,
+        "filename": "ColtOS-v6.5Euphoria-wayne-20201108-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Wayne/ColtOS-v6.5Euphoria-wayne-20201108-Official.zip/download",
+        "timestamp": 1604864693,
+        "md5sum": "6f2b57a64afe112528b3043868d13ae8",
+        "size": 882686100,
         "version": "10.0",
         "romtype": "Official"
     }
