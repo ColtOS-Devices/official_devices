@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.5Euphoria-ginkgo-20201014-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.5Euphoria-ginkgo-20201014-Official.zip/download",
-        "timestamp": 1602643844,
-        "md5sum": "a3b090678b732dda443cf4abe8510d57",
-        "size": 915685931,
+        "filename": "ColtOS-v6.5Euphoria-ginkgo-20201108-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Ginkgo/ColtOS-v6.5Euphoria-ginkgo-20201108-Official.zip/download",
+        "timestamp": 1604840127,
+        "md5sum": "7a06b0ef1f5690c11a52ca79c3c264ca",
+        "size": 917019191,
         "version": "10.0",
         "romtype": "Official"
     }
