@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.5Euphoria-platina-20201019-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.5Euphoria-platina-20201019-Official.zip/download",
-        "timestamp": 1603106653,
-        "md5sum": "d86ac903198285c05095f32f2c851745",
-        "size": 863771990,
+        "filename": "ColtOS-v6.5Euphoria-platina-20201109-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Platina/ColtOS-v6.5Euphoria-platina-20201109-Official.zip/download",
+        "timestamp": 1604881778,
+        "md5sum": "17cd74de1125fcc02cf7c88caff749b5",
+        "size": 864743175,
         "version": "10.0",
         "romtype": "Official"
     }
