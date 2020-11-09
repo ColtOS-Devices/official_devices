@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.5Euphoria-zippo-20201014-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Zippo/ColtOS-v6.5Euphoria-zippo-20201014-Official.zip/download",
-        "timestamp":1602668868, 
-        "md5sum": "1b7c9e371378e844b3720f99f6625969",
-        "size": 730720403,
+        "filename": "ColtOS-v6.5Euphoria-zippo-20201108-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Zippo/ColtOS-v6.5Euphoria-zippo-20201108-Official.zip/download",
+        "timestamp":1604861878, 
+        "md5sum": "eadd5a9957c6e8f73f1856080816c43f",
+        "size": 732711073,
         "version": "10.0",
         "romtype": "Official"
     }
