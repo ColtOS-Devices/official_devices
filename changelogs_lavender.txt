@@ -2,22 +2,5 @@ Device: Xiaomi Redmi Note 7 (lavender)
 Device maintainer: Hazama25
 
 ::::::::::::Device Changelog.::::::::::::::
-* Switch to Coral R FP (this should pass cts)
-* XiaomiParts Tiana Tweaks
+* November Coral R FP (this should pass cts)
 * Upstreamed Predator-StormBreaker HMP Kernel
-
-::::::::::::Source Changelog.::::::::::::::
-* Bump version to v6.5
-* Updated security patch to 5th Oct, 2020
-* Introducing AppLock (by AOSPA)
-* Added option to cycle through ringer modes
-* Added support for Home Button wake
-* Added option to customize lockscreen timeout
-* Reworked on Network traffic indicators
-* Fixed keyguard icons padding
-* Fixed notification overlap with PIN screen
-* Optimized mobile and wifi group layout
-* Much more fixes & improvements
-* You can view complete changes on our git.
-* This is the final Q release.
-* Stay Home & Enjoy Flashing!
