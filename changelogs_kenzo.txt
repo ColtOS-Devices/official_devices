@@ -2,8 +2,9 @@ Device: Xiaomi Redmi Note 3 Pro (Kenzo/Kate)
 Device maintainer: gigabyte_1000
 
 ::::::::::::Device Changelog.::::::::::::::
-* Lockscreen bug from previous build *should* be fixed.
-* November security update.
+* Temporarily revert daisy blobs due to an increased delay starting apps. (wip)
+* Faster app loading and system response.
+* Quicker boot time.
 
 ::::::::::::Source Changelog.::::::::::::::
 As we all know that v6.5 was the last update for ColtOS A10, 
