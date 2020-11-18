@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ColtOS-v6.2-violet-20200716-Official.zip",
-        "url": "https://sourceforge.net/projects/coltos/files/Violet/ColtOS-v6.2-violet-20200716-Official.zip/download",
-        "timestamp": 1594903786,
-        "md5sum": "72a4f13fb83c1853aa85c87de1f90455",
-        "size": 1015911185,
-        "version": "v6.2",
+        "filename": "ColtOS-v6.5Euphoria-violet-20201118-Official.zip",
+        "url": "https://sourceforge.net/projects/coltos/files/Violet/ColtOS-v6.5Euphoria-violet-20201118-Official.zip/download",
+        "timestamp": 1605703540,
+        "md5sum": "58bfa321faa13fdf838ced941066ffc0",
+        "size": 921359524,
+        "version": "10.0",
         "romtype": "Official"
     }
   ]

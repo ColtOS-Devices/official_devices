@@ -1,39 +1,13 @@
-::::::::::::Source Changelog.::::::::::::::
-* Version Bumped to v6.2 :) 
-* Merged tag android-10.0.0_r40
-* July 2020 security patch
-* SIMs on/off toggle
-* Randomize ColtEnigma's summary
-* Phone ringtone setting for Multi SIM device
-* QS header data usage: add ability to show daily/monthly data usage
-* Added Disco dingo style for QS
-* Toggleable QsBorderYStyle 
-* Moved battery icon to QS header 
-* Added QSDetailItems 
-* Added transparent theme and mizu theme .
-* Added some lockscreen clocks(Divided Lines, SFUNY, MNML based clock, MNMLMinimalClock,Oroño ,center style Typographic )
-* fixed battery/percent padding
-* Added ability to Animate Settings button in QS panel and Running Services icon
-* Added switch to show UserIcon & Settings in QS Footer
-* Fixup analog clock for AOD support
-* Moved battery bar settings out of tuner
-* Added Flashlight blink on incoming calls
-* Added EMUI VoLTE icon 
-* Better QS detail clip animation 
-* Added rounded hexagon icon overlay
-* Added new icon shapes from Android R (PebbleOverlay, TaperedRect, Vessel ) 
-* Added QS-Clock Font style & size options 
-* Fixed Qs Header weird corner blank space
-* Fixed lockscreen shortcuts
+Device: Xiaomi Redmi Note 7 Pro (Violet)
+Device maintainer: Logan
 
 ::::::::::::Device Changelog.::::::::::::::
-* Updated FP to flame July patch
-* Introduce Violet Parts (SeLINUX Switcher, USB Fast Charging, Mi Dirac, Log tile)
-* Beautify rounded corners
-* Slightly Improved boot-up time
-* Switched back to gralloc 2.0.
-* Updated graphics blobs. (thanks @tesla59)
-* Switched to common sm8150 hals.
-* Enabled VoLTE for bd
-* Addressed some denials
-* Updated azure kernel (thanks @panchajanya1999)
+* Updated FP to flame November patch
+* Addressed slow charge speed
+* Kernel- 4.14.206
+
+
+::::::::::::Source Changelog.::::::::::::::
+As we all know that v6.5 was the last update for ColtOS A10,
+But there will security patch updates as long as we can. So yeah,
+November security patch has been merged into sources with few other fixes & improvements.
