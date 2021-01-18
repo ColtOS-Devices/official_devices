@@ -2,9 +2,16 @@ Device: Xiaomi Redmi Note 3 Pro (Kenzo/Kate)
 Device maintainer: gigabyte_1000
 
 ::::::::::::Device Changelog.::::::::::::::
-* Temporarily revert daisy blobs due to an increased delay starting apps. (wip)
-* Faster app loading and system response.
-* Quicker boot time.
+* Updated blobs - DRM, Keystore, Gatekeeper, Time from smartron-rimo02a-8.0.0-T5524INDURC-475
+* Drop TimeServices - on late boot time_genoff connection will sometimes fail & block unlocking the device.
+* Implemented - TimeKeep to keep track of time & date is alive.
+* Added audio input port for hotword implementation.
+* Fixed issue a issue where Torch is not available on encrypted devices.
+* Fixed sending auth token from FingerprintDeamon (fixes FP auth in apps for devices with Goodix sensor)
+* Updated media profiles and added performance points, built the G711 codec from source.
+* Changed default hotspot SSID from "AndroidAp" to "Redmi Note 3 Pro"
+* Kernel upstreamed with some drivers fixes
+* Other "Under the hood" changes to Device Tree.
 
 ::::::::::::Source Changelog.::::::::::::::
 As we all know that v6.5 was the last update for ColtOS A10, 
