@@ -1,0 +1,10 @@
+on: [push, pull_request]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+            fetch-depth: 0
+      - run: sudo apt install jq -y
+      - run: bash tg_notify.sh
