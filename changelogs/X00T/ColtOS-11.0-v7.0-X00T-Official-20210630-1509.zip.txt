@@ -1,0 +1,7 @@
+* Initial Build
+* Based on PK's 4.19 sources
+* FBE on by default
+
+Note:
+    - NikGApps is recommended!
+    - fw063 or higher is required!
