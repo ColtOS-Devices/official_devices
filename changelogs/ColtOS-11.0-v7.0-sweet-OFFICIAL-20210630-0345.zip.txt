@@ -1,0 +1,20 @@
+1. Initial Official Release
+2. Added support to unlock with tap/touch (MIUI Implementation)
+3. Added Min/Max Refresh Rate Controls (60Hz is default)
+4. CTS passed by default
+5. All Banking apps working
+6. Widevine is L1
+7. Merged Latest Changes from @AdarshGrewal
+8. Switched to OSS Kernel
+9. Based on MIUI vendor
+10.Added DC Dimming support
+11.Added Hi-Fi support for Dirac Sound
+12.Switched to Redfin June FP
+13.Removed Charging rapidly it will show Turbo Charging now
+14.Added Call recording for AOSP Dialers
+15.Added chipmunk sound support 
+16.Added AOD support
+17.VoLTE/VoWiFI working
+18.BT Media/Calling working
+19.Added GCam Go as default
+20.WFD (untested may be working)
