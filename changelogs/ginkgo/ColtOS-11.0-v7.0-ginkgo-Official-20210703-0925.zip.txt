@@ -1,0 +1,8 @@
+Fixed QS header layout
+Fixed Gphotos cannot set wallpaper
+Fixed duplicate lockscreen charging info
+Added option to change lockscreen charging temp unit
+Fixed weather tile
+Imported back arrow from OOS
+Much more fixes & improvements
+
