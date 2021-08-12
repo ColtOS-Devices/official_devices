@@ -1,0 +1,14 @@
+﻿-Blob updated
+-FP update to Coral August
+-kernel upstream to 4.14.243
+-Added Oneplus Camera & Gallery
+Added Moto Doldy
+-Removed haptics for ambient gestures
+-Improved Auto Brightness 
+-Implementation of fod drivers
+-Added Alert slider animation
+-Improved Vibration strength
+-Custom notification vibration pattern
+-Fixed battery position in AOD
+
+Notes:= Opcam crash when changing 30fps to 60fps
