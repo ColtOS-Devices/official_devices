@@ -1,0 +1,24 @@
+1. Fixed FPS Info tile
+2. Fixed Smart Charging
+3. Fixed crash in Dirac sound
+4. Fixed HD capable notification (Jio shit)
+5. Removed 90Hz (causing battery drain)
+6. Added support for aptX, aptX HD and LDAC Bluetooth codec
+7. Switched to coral vibration configuration
+8. Enabled Adaptive Brightness by default
+9. Updated Carrier Config from CAF
+10.Bump up doze brightness
+11.Added notch overlay
+12.Enabled sublte tick vibration
+13.Added overlay to show ring around front camera while in use
+14.Enabled Burn-in protection for status/navbar
+15.Disable Pocket Mode
+16.Disabled proximity during doze
+17.Updated fp to Redfin August patch
+18.Enabled white balance in display
+19.Updated GCam Go
+20.Disabled Global mode and CDMA choices
+21.Added props for unlimited Google Photos storage (hopefully work)
+22.CTS showing failed but all apps working
+23.Switched to Epsilon kernel by UditKarode
+24.Kernel upstreamed to 4.14.239
