@@ -1,0 +1,7 @@
+Device Changelog (13-08-2021)
+
+* Updated Blobs from ZUI 12.5.262(THX @pasta_con_tonno)
+* Kernel upstream 4.14.243
+* Many minor things too much to list
+
+- THX to all zippo devs for making this possible !!!
