@@ -1,0 +1,8 @@
+beryllium changelog
+•Switched to Optimus Drunk Beryllium v11.27 (Tag:4.9.279)
+•Fix recovery partition size.
+•Update blobs from V12.0.3.0.QEJMIXM global stable.
+•Enabled stereo channel for voip over audio path.
+•Reduced boot partition size.
+•Addressed thermal engine denials.
+•Migrated to Xiaomi power AIDL HAL.
