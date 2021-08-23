@@ -1,0 +1,5 @@
+* Add back Build Fingerprint for fix safetynet issue
+
+Note:
+    - FlameGApps is recommended!
+    - OOS10 Base is required!
