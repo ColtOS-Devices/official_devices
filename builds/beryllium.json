@@ -1,14 +1,14 @@
 {
-   "datetime": 1628901140,
+   "datetime": 1629657341,
    "error": false,
-   "filehash": "6eeb9d519fbb3669fbf55b5697ce89c0",
-   "filename": "ColtOS-11.0-v7.1-beryllium-Official-20210814-0032.zip",
-   "id": "0fe43499efc698e9d9233315814b4252bab10c02dd9973d32b083441d6770012",
-   "size": 988006400,
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/beryllium/ColtOS-11.0-v7.1-beryllium-Official-20210814-0032.zip/download",
+   "filehash": "87121bf4acb3630105c8bd4d1b7a0499",
+   "filename": "ColtOS-11.0-v7.2-beryllium-Official-20210822-1835.zip",
+   "id": "cbebf5097e2670df6ce01685b77efef7fadae365880e104f95b55f4093969878",
+   "size": 983362209,
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/beryllium/ColtOS-11.0-v7.2-beryllium-Official-20210822-1835.zip/download",
    "devicename": "Poco F1",
    "maintainer": "Mani_Madhuri",
-   "xdathread": "https://forum.xda-developers.com/t/rom-official-11-coltos-7-1-beryllium.4081133/",
+   "xdathread": "https://forum.xda-developers.com/t/rom-official-11-coltos-7-2-beryllium.4081133/",
    "version": "11.0"
 }
 
