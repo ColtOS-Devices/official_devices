@@ -1,12 +1,11 @@
-{
-   "datetime": 1628853065,
-   "error": false,
-   "filehash": "881906617bb92cdb3bb675b903365e66",
-   "filename": "ColtOS-11.0-v7.1-zippo-Official-20210813-1112.zip",
-   "id": "94125b2935c903b664fe87f7ce86639e48b0bdafe3676af612bb9d77184ea8b9",
-   "size": 1011530554
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/zippo/ColtOS-11.0-v7.1-zippo-Official-20210813-1112.zip/download",
+-e {
+   "datetime": 1630229231,
+   "filehash": "654ca142bd6ff620168802450117ad61",
+   "filename": "ColtOS-11.0-v7.2-zippo-Official-20210829-0928.zip",
+   "id": "06963df8ba7758155b0e14d2cda7d0c832cdb3314fbf32ef54e38e40ba81fcc5",
+   "size": 1010575963
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/zippo/ColtOS-11.0-v7.2-zippo-Official-20210829-0928.zip/download",
    "devicename": "Lenovo Z6 Pro",
    "maintainer": "EinarGednochsson",
-   "version": "11.0"
+   "version": 11.0
 }

@@ -1,0 +1,13 @@
+Device Changelog (29-08-2021)
+
+* Updated Blobs from ZUI 12.5.332(THX @Marc)
+* Added Moto Dolby(THX @Chema)
+* Kernel upstream 4.14.245
+* Fixed Device freezing after some time
+* Removed GPU oC/Undervolt
+
+Notes
+- Firmware ZUI 11.5.332 required for flashing.
+- FMRadio broken for now. 
+
+- THX to all zippo devs for making this possible !!!
