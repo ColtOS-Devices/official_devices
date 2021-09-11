@@ -1,0 +1,10 @@
+Device Changelog (11-09-2021)
+
+* Updated Blobs from ZUI 12.5.365
+* Kernel upstream 4.14.246
+* Fixed FMRadio
+
+Notes
+- Firmware ZUI 11.5.365 required for flashing.
+
+- THX to all zippo devs for making this possible !!!
