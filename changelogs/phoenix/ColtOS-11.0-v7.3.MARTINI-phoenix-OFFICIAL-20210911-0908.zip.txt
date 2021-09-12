@@ -1,0 +1,7 @@
+phoenix: Update blobs from miui PHOENIX 21.8.4
+phoenix: parts: Add support for LCD HBM and CABC
+phoenix: iorap: Drop iorapd
+phoenix: Enable IORap app launch prefetching 
+phoenix: sepolicy: Address thermal denial
+phoenix: parts: fixup icons showing accent
+phoenix: add blur props
