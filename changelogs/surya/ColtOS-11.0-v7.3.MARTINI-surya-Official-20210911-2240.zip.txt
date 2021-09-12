@@ -1,0 +1,5 @@
+Device Changelog (11-09-2021)
+
+* Initial Official Release
+* Shipped StormBreaker kernel as default
+* Compiled using new gcc 12.0.0
