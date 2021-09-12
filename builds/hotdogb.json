@@ -1,12 +1,12 @@
 -e {
-   "datetime": 1628660184,
-   "filehash": "0fafa0e11f6ef345f0138b6c3e26f566",
-   "filename": "ColtOS-11.0-v7.1-hotdogb-OFFICIAL-20210811-0537-Gapps.zip",
-   "id": "35a06648f2a0873665e7e6660875c87ea67e6048c13aea738a0b7501d8fe5e9f",
-   "size": 1295830747,
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/hotdogb/ColtOS-11.0-v7.1-hotdogb-OFFICIAL-20210811-0537-Gapps.zip/download",
+   "datetime": 1631448225,
+   "filehash": "e45fe24e7a1ab5faffd1b97101cdc548",
+   "filename": "ColtOS-11.0-v7.3.MARTINI-hotdogb-Official-20210912-1204-Gapps.zip",
+   "id": "dd438fe02175b2423d724d6eb682213094701b7ae39093272e150e251421eb3b",
+   "size": 1188526317,
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/hotdogb/ColtOS-11.0-v7.3.MARTINI-hotdogb-Official-20210912-1204-Gapps.zip/download",
    "devicename": "Oneplus 7T",
    "maintainer": "Addy",
-   "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-1-for-oneplus-7t-hotdogb-official.4318391",
+   "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-3-for-oneplus-7t-12-september-2021.4298259",
    "version": "11.0"
 }

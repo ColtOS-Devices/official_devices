@@ -1,0 +1,14 @@
+Changelog for ColtOS-v7.2
+1. Reverted to Stock FP
+2. Dropped Pixel Redfin FP
+3. Fixed OK Google Detection (Hopefully work now)
+4. Fixed CTS from previous build
+5. Import stock ausio_platform_info
+6. Import stock WCNSS config
+7. Switched to xiaomi_touch for dt2w impl.
+8. Enable QPower & Deep Sleep for Wifi
+9. Dropped Minimum Refresh Rate overlay
+10. Removed Audio FX
+11. Disabled few debug services
+12. Added config value for a11y color mode
+13. Removed cutout overlay
