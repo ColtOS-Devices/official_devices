@@ -1,10 +1,10 @@
--e {
-   "datetime": 1629728878,
-   "filehash": "11db84f467f1f533852f4e3daa93ad2e",
-   "filename": "ColtOS-11.0-v7.2-violet-Official-20210823-1428.zip",
-   "id": "7355b1c7ad4b68eb3f65337cdafc9636b01d0ad92df9c1c4d40277411b74728b",
-   "size": 1022179474,
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/violet/ColtOS-11.0-v7.2-violet-Official-20210823-1428.zip/download",
+{
+   "datetime": 1631516424,
+   "filehash": "afb1cc94c5c81f3df96e1f2dd1b5c101",
+   "filename": "ColtOS-11.0-v7.3.MARTINI-violet-Official-20210913-0701.zip",
+   "id": "76a1e3d1b0a5b72948131c0acb197cb0ea7f2bb992872a12469fc6a1d07be55c",
+   "size": 1027103719
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/violet/ColtOS-11.0-v7.3.MARTINI-violet-Official-20210913-0701.zip/download",
    "devicename": "Redmi Note 7 Pro",
    "maintainer": "Logan",
    "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-x-for-redmi-note-7-pro-violet-official.4323299",

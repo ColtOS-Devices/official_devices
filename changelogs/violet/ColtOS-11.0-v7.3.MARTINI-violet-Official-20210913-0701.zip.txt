@@ -1,0 +1,7 @@
+Device Changelog For Colt-os-7.3:
+
+- Updated build fingerprint to coral september
+- Fixed callrecording issue
+- VioletParts: Update clear speaker audio from MIUI 12
+- Merged Latest CAF tags to kernel (qcacld-3.0, fw-api, qca-wifi-host-cmn & techpack/audio) (LA.UM.9.1.r1-11100-SMxxx0.0)
+- Improved SLMK
