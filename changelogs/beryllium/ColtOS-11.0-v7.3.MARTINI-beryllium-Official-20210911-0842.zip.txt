@@ -1,0 +1,27 @@
+----Device Changelog----
+
+	Workaround safetynet check
+	Update build fingerprint
+	Workaround safetynet
+	Disable displayblanksafterdoze
+	Define hdr display feature
+	Show color modes from config_availablecolormodes
+	Enable usb debugging at boot
+	Enable smart charging
+	Correct zram parameter names
+	Enable zram writeback
+	Set zram size to 50% of total ram
+	Tune zram performance
+	Use vibration patterns from pixel 2
+	Added fps info overlay & tile
+	Configured sqlite to operate in memory mode this change yields considerable sqlite performance gains. It should be generally safe as this device has irremovable battery.
+	Disabled nearbymessagingservice and discoveryservice
+	Enabled ringtone audio focus for wired/bt headset
+	 Enabled rich-communication services
+	 Decreased launch boost to 3sec
+	 Tweaked powerhint.json
+	 Decreased schedtune boost to 5
+	 Enabled incall music support
+	Addressed sepolicy for camera hal
+	Improve face unlock for non-popup camera"
+
