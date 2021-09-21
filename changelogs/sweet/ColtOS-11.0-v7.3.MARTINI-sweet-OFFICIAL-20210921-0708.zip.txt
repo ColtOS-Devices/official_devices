@@ -1,0 +1,42 @@
+========================================================
+              Changelog for September update
+========================================================
+
+1. Added support for HBM (High Brightness Mode)
+2. Added support for CABC (Content Adaptive Backlight Control)
+3. Switched to stock device FP
+4. Fixed safetynet from previous build
+5. Switched to Vantom Kernel
+6. Upstreamed kernel to 4.14.246
+7. Fixed DC Dimming
+8. Switched to Source Refresh Rate Settings
+9. Added Adaptive Brightness COntrol
+10. Play Store Certified
+11. Switched to Proton Kernel Clang
+12. Added hacks to Hide Magisk better
+13. Import device specific display configs
+14. Switched to prebuilt libcameraservice
+
+********************************************************
+                       Credits
+********************************************************
+
+1. redcliff-op for helping me with kernel
+2. lostark13 for HBM & CABC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Notes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Based on prebuilt (MIUI vendor)
+2. Flash device region specific fw+vendor if coming from OSS build
+3. Follow proper steps before flashing
+4. Join https://t.me/octavicoltxtsweet for device related queries
+
+////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                       Bugs
+///////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+1. Native Video Calling showing unable to connect (tested on Airtel)
+2. Hotword Enrollment (particularly OK Google)
+
