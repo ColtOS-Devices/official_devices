@@ -1,0 +1,11 @@
+08/19/2021
+
+==============================
+FIRST RELEASE FOR MOTO G6 ALI
+==============================
+
+09/12/2021
+
+• Security Patch bump to Setember
+• Add a fix to Safetynet
+• Check sources changelogs to see more
