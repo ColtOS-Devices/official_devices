@@ -1,10 +1,10 @@
 -e {
-   "datetime": 1631351188,
-   "filehash": "c9cd9fc4f9c267382a353391ce1c648e",
-   "filename": "ColtOS-11.0-v7.3.MARTINI-phoenix-OFFICIAL-20210911-0908.zip",
-   "id": "27697610245a3c84445bc3ee591fac90dea8f814db692031fc2a3b74fdba6cae",  
-   "size": 1778575961
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/phoenix/ColtOS-11.0-v7.3.MARTINI-phoenix-OFFICIAL-20210911-0908.zip/download",
+   "datetime": 1633864499,
+   "filehash": "bf0084b47c5404215e0c7dae83906fff",
+   "filename": "ColtOS-11.0-v7.4.Tipsy-phoenix-OFFICIAL-20211010-1115.zip"
+   "id": "0558b1a809d1f9309312b5c2bebbe28ce6d31360fac7d401f867ad7ef251507f",
+   "size": 1778599031
+   "url": https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/phoenix/ColtOS-11.0-v7.4.Tipsy-phoenix-OFFICIAL-20211010-1115.zip/download,
    "devicename": "POCO X2",
    "maintainer": "Sharma_G",
    "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-x-for-xiaomi-poco-x2-phoenix-official.4324411/#post-85534539",
