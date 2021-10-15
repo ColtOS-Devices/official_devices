@@ -1,0 +1,50 @@
+ColtOS : v7.4 (Tipsy) Changelogs
+------------------------
+
+* Merged Oct Security Patch 'android-11.0.0_r46'
+* Fixed QS row columns (users was not able to set it to 2 or 1)
+* Fixed mismatched animation, transition values
+* Fixed power saver mode icon in L Style battery icon
+* Fixed Lockscreen layout thumbnails for some clocks
+* Fixed default color of navbar home icon
+* Fixed FC in Hotspot client manager
+* Improved QS Header Weather Image Layout
+* Improvement in S Clock style
+* Improvement in default dialer and messagings apps
+* Improvement in QS clock and some Enhancements, now you can change its position (Need SystemUI restart)
+* Redesigned dark/light mode previews
+* Added OP like QS Panel
+* Added our own setupwizard based on LOS
+* Added toggle for QS Edit, Settings and Running services icon.
+* Added dismis all button toggle
+* Added custom header image height offset user configurable
+* Added Big Circle and Big Dotted Circle battery icon styles
+* Added lockscreen bouncer from Android 12 Beta 2.
+* Added seekbar for Left/Right statusbar icon paddings
+* Added Signature spoofing
+* Added Status bar colors (Now you can set the colors for notification, battery icons and battery text
+* Added custom symbol near text on charging
+* Added notification header and clear all gravity customizations
+* Added Octavi and Shapeshift LS clock
+* Added support for pocket judge and pocket lock
+* Moved data usage info to footer
+* Updated some sounds from Oneplus
+## Many more improvements here and there in source.
+
+Device Changelog:
+
+- Fix Battery percentage overlap on FOD
+- Improved auto brightness
+- Improved haptics
+- Fixed pick-up sensor not working
+- Fixed Moto dolby not working in few cases
+- Oneplus Camera Updated to v6.4.66
+- Oneplus Gallery Updated to v4.0.227
+- Cleanup & fixes.
+
+===================
+Credits:
+==================
+@fazil_sheik (tester)
+@mukesh22584 (bug fixes)
+@Team Colt-OS
