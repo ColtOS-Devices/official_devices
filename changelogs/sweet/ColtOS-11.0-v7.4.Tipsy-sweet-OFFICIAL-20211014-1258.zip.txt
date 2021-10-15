@@ -1,0 +1,10 @@
+1. System Optimisation
+2. Removed HBM & CABC mode
+3. Fixed denials
+4. CTS & Safetynet passed by default
+5. Removed GCam Go
+6. Switched to ANX v204
+7. Built with proton clang
+8. Bug fixes
+9. Cleanup config fs
+10. Kernel upstreamed 4.14.248

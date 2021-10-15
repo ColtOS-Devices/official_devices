@@ -1,13 +1,13 @@
 {
-   "datetime": 1632208022,
+   "datetime": 1634216275,
    "error": false,
-   "filehash": "8a0c5307bb887eb63ef7252844225847",
-   "filename": "ColtOS-11.0-v7.3.MARTINI-sweet-OFFICIAL-20210921-0708.zip",
-   "id": "0b50adc851276cd801efd25f1a5d0354d134dbb84dd25be0d64b2b03c698a547",
-   "size": 793029825,
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/sweet/ColtOS-11.0-v7.3.MARTINI-sweet-OFFICIAL-20210921-0708.zip/download",
+   "filehash": "4af1794c661561aca34b23045f4c99f7",
+   "filename": "ColtOS-11.0-v7.4.Tipsy-sweet-OFFICIAL-20211014-1258.zip",
+   "id": "bbfebc2f8a53e61b7cd741818e51eab588e3e34d1d3bb9958411eb9afa29314a",
+   "size": 880767083,
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/sweet/ColtOS-11.0-v7.4.Tipsy-sweet-OFFICIAL-20211014-1258.zip/download",
    "devicename": "Redmi Note 10 Pro/Max",
    "maintainer": "pbharadwaj_95",
-   "xdathread": "https://forum.xda-developers.com/t/rom-official-android-11-stable-coltos-v7-3-aosp-sweet-sweetin-21-sept-2021.4336903/",
+   "xdathread": "https://forum.xda-developers.com/t/rom-official-android-11-stable-coltos-v7-4-tipsy-aosp-sweet-sweetin-15-oct-2021.4347777/",
    "version": "11.0"
 }
