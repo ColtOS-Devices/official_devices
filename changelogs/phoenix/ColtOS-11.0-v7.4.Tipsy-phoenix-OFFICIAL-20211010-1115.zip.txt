@@ -1,0 +1,13 @@
+Update Redfin fp to October 2021
+Back to qti blutooth.
+Set HBM mode to 0 (off) by default
+Update CABC icon from WSTxda
+Allow all filesystems for USB-OTG
+Add support for updatable GPU driver
+Uprev IRadio HAL to 1.5
+Add proximityCheckOnWake 
+Reduce screenshot delay to 0 
+Disable the usage of ConfigStore 
+Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0 
+Update blobs from 21.9.1
+Update PROXY_APP_PACKAGE_NAME etc..
