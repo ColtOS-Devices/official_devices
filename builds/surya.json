@@ -1,13 +1,12 @@
 {
-   "datetime": 1624839250,
-   "error": false,
-   "filehash": "a48fce0c4f351e7ffcc8c098dd8e9bf8",
-   "filename": "ColtOS-11.0-v7.0-surya-Official-20210628-0014.zip",
-   "id": "669d6e8ddb3f6f6abf5f85b93c720ed0344ab40d4286f4d4c16069cd52b0c406",
-   "size": 756960128,
-   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/surya/ColtOS-11.0-v7.0-surya-Official-20210628-0014.zip/download",
-   "devicename": "POCO X3/X3 NFC",
-   "maintainer": "Hazama25",
-   "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-x-for-poco-x3-x3-nfc-karna-surya-official.4297975/",
+   "datetime": 1631399850,
+   "filehash": "9c657be15cd805a95990d77bb6d5179d",
+   "filename": "ColtOS-11.0-v7.3.MARTINI-surya-Official-20210911-2240.zip",
+   "id": "e72f1acff23b0cada89400ba0ee46e56063b3bfd33975e9cd497e72bc58974c2",
+   "size": 1104095726
+   "url": "https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/surya/ColtOS-11.0-v7.3.MARTINI-surya-Official-20210911-2240.zip/download",
+   "devicename": "Poco X3 NFC",
+   "maintainer": "i-Jack",
+   "xdathread": "https://forum.xda-developers.com/t/rom-11-0-coltos-v7-x-for-poco-x3-nfc-surya-karna-official.4332397/",
    "version": "11.0"
 }
