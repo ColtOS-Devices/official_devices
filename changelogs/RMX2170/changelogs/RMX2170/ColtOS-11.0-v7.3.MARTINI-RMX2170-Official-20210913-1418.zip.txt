@@ -1,0 +1,8 @@
+initial build
+cts pass by default
+added new charging animations 
+new volume pannel added 
+aggresive battery added
+gcam added by default 
+modifided dialer with call recording 
+vanila version so download gapps(optional)
